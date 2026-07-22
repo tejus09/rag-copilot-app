@@ -43,7 +43,7 @@ ollama pull qwen2.5-coder:1.5b
 **2. Install project dependencies** ([uv](https://docs.astral.sh/uv/) required)
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/tejus09/rag-copilot-app.git
 cd rag-copilot-app
 uv sync
 ```
